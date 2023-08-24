@@ -8,7 +8,7 @@ This is an example of a Markdown file with images and an outline.
 
 The structure :
 
-![ball stick diagram of molecule. 4-ONE,5-IMINE-PYRENE](EtOH_4-ONE_5-IMINE-PYRENE.eps)
+![SVG Image](4-ONE_5-IMINE-PYRENE.svg)
 
 ## Creating an Outline
 
