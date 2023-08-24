@@ -1,13 +1,27 @@
-# My Markdown File
+# How to generate Spectral files (FTIR / Raman) using Gaussian16
 
-## Introduction
+## Input file (general structure coming soon)
 
-This is an example of a Markdown file with images and an outline.
+<pre>
+```bash
+%nprocshared=4
+%mem=4GB
+%chk=C:\Users\jared\Desktop\spectras\4-ONE_5-IMINE-PYRENE\ethanol_solvent\ETHANOL-4-ONE_5-IMINE-PYRENE.chk
+# freq=raman b3lyp/6-311++g(d,p) scrf=(cpcm,solvent=ethanol)
+geom=connectivity
 
-## Adding Images
+Title Card Required
 
-The structure :
+0 1 
+ C                 -3.53067833   -0.50651839    0.00001203
+ C                 -2.80438817   -1.68367941    0.00001003
+ C                 -1.39320107   -1.67404227   -0.00000298
+ C                 -0.70925313   -0.42801112   -0.00001598
+ C                 -1.47254130    0.76875990   -0.00002498
+```
+</pre>
 
+The structure that I generated in gaussview (tutorial coming soon):
 ![SVG Image](4-ONE_5-IMINE-PYRENE.svg)
 
 ## Creating an Outline
