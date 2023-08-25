@@ -33,7 +33,7 @@ The structure that I generated in gaussview (tutorial coming soon):
 [Click here to see the vibrations corresponding to the frequency -- in the form of a youtube video](https://youtu.be/pZKMKJb7j4g)  
 
 ### IR Spectra
-![IR Spectra](4-ONE_5-IMINE-PYRENE-EtOH_IR.svg)  
+![IR Spectra](./4-ONE_5-IMINE-PYRENE-EtOH_IR.svg)   
 
 [Text File of IR Spectra](./4-ONE_5-IMINE-PYRENE-EtOH_IR.txt)  
 
