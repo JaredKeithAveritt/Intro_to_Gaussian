@@ -24,15 +24,16 @@ Title Card Required
 The structure that I generated in gaussview (tutorial coming soon):
 ![SVG Image](4-ONE_5-IMINE-PYRENE.svg)
 
-## Raman and IR Spectra of molecule
-![IR Spectra](4-ONE_5-IMINE-PYRENE-EtOH_IR.svg)
-![RAMAN Spectra](4-ONE_5-IMINE-PYRENE-EtOH_RAMAN.svg)
+## Raman Spectra of molecule
 
+![RAMAN Spectra](4-ONE_5-IMINE-PYRENE-EtOH_RAMAN.svg)
+[Text File of IR Spectra](./4-ONE_5-IMINE-PYRENE-EtOH_RAMAN.txt)
 [Click here to see the vibrations corresponding to the frequency -- in the form of a youtube video](https://youtu.be/OEnIv5xCmJs )
 
-### Section 1
-
-Some content in the first section.
+### IR Spectra
+![IR Spectra](4-ONE_5-IMINE-PYRENE-EtOH_IR.svg)
+[Text File of IR Spectra](./4-ONE_5-IMINE-PYRENE-EtOH_IR.txt)
+[Click here to see the vibrations corresponding to the frequency -- in the form of a youtube video](https://youtu.be/OEnIv5xCmJs )
 
 ### Section 2
 
