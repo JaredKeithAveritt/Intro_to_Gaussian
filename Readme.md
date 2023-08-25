@@ -24,7 +24,9 @@ Title Card Required
 The structure that I generated in gaussview (tutorial coming soon):
 ![SVG Image](4-ONE_5-IMINE-PYRENE.svg)
 
-## Creating an Outline
+## Raman and IR Spectra of molecule
+![Spectra](4-ONE_5-IMINE-PYRENE_EtOH.gif)
+[Click here to watch the gif in the form of a youtube video](https://youtu.be/OEnIv5xCmJs )
 
 ### Section 1
 
