@@ -1,4 +1,4 @@
-# 4-ONE_5-IMINE-PYRENE_No_Solvent
+# 4-ONE_5-IMINE-PYRENE-EtOH
 
 ## Input file (general structure coming soon)
 
