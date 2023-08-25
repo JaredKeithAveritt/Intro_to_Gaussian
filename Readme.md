@@ -27,10 +27,14 @@ The structure that I generated in gaussview (tutorial coming soon):
 ## Raman Spectra of molecule
 
 ![RAMAN Spectra](4-ONE_5-IMINE-PYRENE-EtOH_RAMAN.svg)
+
 [Text File of IR Spectra](./4-ONE_5-IMINE-PYRENE-EtOH_RAMAN.txt)
+
 [Click here to see the vibrations corresponding to the frequency -- in the form of a youtube video](https://youtu.be/OEnIv5xCmJs )
 
 ### IR Spectra
 ![IR Spectra](4-ONE_5-IMINE-PYRENE-EtOH_IR.svg)
+
 [Text File of IR Spectra](./4-ONE_5-IMINE-PYRENE-EtOH_IR.txt)
+
 [Click here to see the vibrations corresponding to the frequency -- in the form of a youtube video](https://youtu.be/OEnIv5xCmJs )
