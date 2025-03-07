@@ -7,3 +7,6 @@ Phase=(N1, N2 [,N3 [,N4]]) : Defines the phase for the transition vector such th
 
 Instructions on checking if the initial structure is the maxima energy structure (i.e., transition state) using GaussView can be found [here](https://flex.phys.tohoku.ac.jp/texi/gview/seqs.htm).
 [1] [Research Gate: How to get IRC path in Gaussian](https://www.researchgate.net/post/How-to-get-the-IRC-path-in-DFT-Gaussian-calculation)
+
+
+Alternative way to find min reaction pathway : (cited as a more powerfull, but not comparable method [1]) -- NEB with QCHEM/QE) 
